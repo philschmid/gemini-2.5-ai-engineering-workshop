@@ -9,6 +9,8 @@ This workshop teaches how to build advanced AI applications with the Google Gemi
 
 **Acknowledgment**: This workshop structure is inspired by [Patrick Loeber's excellent Gemini workshop](https://github.com/patrickloeber/workshop-build-with-gemini/tree/main). Check out his work for additional learning resources.
 
+Start in colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/philschmid/gemini-2.5-ai-engineering-workshop/blob/main/notebooks/00-setup-and-authentication.ipynb) or [here](./notebooks/00-setup-and-authentication.ipynb)
+
 ## Course Outline
 
 ### [Part 0: Setup and Authentication](./notebooks/00-setup-and-authentication.ipynb)
