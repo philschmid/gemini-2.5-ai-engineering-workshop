@@ -7,6 +7,8 @@ This workshop teaches how to build advanced AI applications with the Google Gemi
 
 **Prerequisites**: You need an API key from [Google AI Studio](https://aistudio.google.com/apikey). Everything can be done on the free tier. Install the `google-genai` package with `pip install -U -q "google-genai"`.
 
+**For AI Helpers**: This LLM-friendly guide, distilled from this workshop, teaches them how to use Gemini SDK. To use it, add this link for your AI helper: "https://raw.githubusercontent.com/dat-lequoc/gemini-2.5-ai-engineering-workshop/refs/heads/main/gemini-llms-cxt-sdk.md"
+
 **Acknowledgment**: This workshop and structure is inspired by [Patrick Loeber's excellent Gemini workshop](https://github.com/patrickloeber/workshop-build-with-gemini/tree/main). Check out his work for additional learning resources.
 
 Start in colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/philschmid/gemini-2.5-ai-engineering-workshop/blob/main/notebooks/00-setup-and-authentication.ipynb) or [here](./notebooks/00-setup-and-authentication.ipynb)
