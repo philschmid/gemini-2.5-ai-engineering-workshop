@@ -2,6 +2,8 @@
 
 This workshop teaches how to build advanced AI applications with the Google Gemini 2.5 model family, focusing on practical engineering skills for building agentic AI systems.
 
+> **Context for LLMs**: This LLM-friendly guide, distilled from this workshop, teaches them how to use Gemini SDK. To use it, add this link for your AI helper: [https://raw.githubusercontent.com/dat-lequoc/gemini-2.5-ai-engineering-workshop/refs/heads/main/gemini-llms-cxt-sdk.md](https://raw.githubusercontent.com/dat-lequoc/gemini-2.5-ai-engineering-workshop/refs/heads/main/gemini-llms-cxt-sdk.md)
+
 > [!NOTE]
 > The notebooks include the workshops and learning exercises. You'll find solutions in the [solutions](./solutions/) folder.
 
